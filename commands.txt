@@ -1,0 +1,14 @@
+$ pwd    - current directory, it stands for: "print working directory".  It 
+               will return the path to a local folder on your computer's disk.
+
+$ cd ..  - you can use the "cd" command (where "cd" stands for 
+               "change directory"),  For example, to move one directory 
+               upwards (into  the current folder's parent folder)
+
+$ ls -     list files, Showing the contents of the current directory works 
+               as follows
+
+$ mkdir new-folder - to create a new folder, you call the "make 
+              directory" command
+
+$ cat file.ext - The "cat" command outputs the whole file in one go
